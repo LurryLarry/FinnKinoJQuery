@@ -1,0 +1,76 @@
+#otsikko {
+  text-align: center;
+}
+body {
+  background-color: #dbce81;
+}
+h1 {
+  margin: 0 ;
+  padding: 0 ;
+}
+#osto {
+  margin-top: 20px;
+  width:100px;
+}
+
+#tiedot {
+  margin-top: 20px;
+  width:100px;
+}
+#hae {
+  width: 500px;
+  text-align: center;
+}
+
+.dropdown-menu {
+  width: 500px;
+  text-align: left;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 200px;
+  overflow-x: hidden;
+}
+
+.card-content {
+  height: 200px;
+}
+
+ .form-group {
+  
+   text-align: center;
+   width: 500px;
+ }
+#hakuotsikko {
+  text-align: center;
+color: black;
+ font-size: 20px;
+}
+
+#keskitys {
+  text-align: center
+}
+.container {
+  height: 700px;
+}
+
+
+.dropdown-item:nth-child(odd):hover {
+  
+  background-color: #e8dfa7 !important;
+}
+
+.dropdown-item:nth-child(even):hover {
+  background-color: #e8dfa7 !important;
+}
+
+
+.dropdown-item:nth-child(odd):hover {
+  
+  background-color: #e8dfa7 !important;
+}
+
+.dropdown-item:nth-child(even):hover {
+  background-color: #e8dfa7 !important;
+}
